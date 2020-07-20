@@ -1,0 +1,10 @@
+C:\Users\child\Desktop\C# PROJECT\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe.config
+C:\Users\child\Desktop\C# PROJECT\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe
+C:\Users\child\Desktop\C# PROJECT\MatchingPairsGame\MatchingPairsGame\bin\Debug\MatchingPairsGame.pdb
+C:\Users\child\Desktop\C# PROJECT\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.csprojAssemblyReference.cache
+C:\Users\child\Desktop\C# PROJECT\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.Form1.resources
+C:\Users\child\Desktop\C# PROJECT\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.Properties.Resources.resources
+C:\Users\child\Desktop\C# PROJECT\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.csproj.GenerateResource.cache
+C:\Users\child\Desktop\C# PROJECT\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.csproj.CoreCompileInputs.cache
+C:\Users\child\Desktop\C# PROJECT\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.exe
+C:\Users\child\Desktop\C# PROJECT\MatchingPairsGame\MatchingPairsGame\obj\Debug\MatchingPairsGame.pdb
